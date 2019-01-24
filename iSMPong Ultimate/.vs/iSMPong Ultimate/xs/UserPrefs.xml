@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3D23C4D9-80F6-CAD6-BD3D-1E85DD9FA710}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="126" Column="1" />
+      <File FileName="Assets/Scripts/RacketMovement.cs" Line="13" Column="70" />
+      <File FileName="Assets/Scripts/UI.cs" Line="11" Column="19" />
+      <File FileName="Assets/Auto Letterbox/ForceCameraRatio.cs" Line="181" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
